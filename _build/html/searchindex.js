@@ -1,0 +1,1 @@
+Search.setIndex({envversion:47,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{cerca:0,content:0,dei:0,moduli:0},titles:["Welcome to testy_Palla&#8217;s documentation!"],titleterms:{document:0,indic:0,tabl:0,testy_palla:0,welcom:0}})
