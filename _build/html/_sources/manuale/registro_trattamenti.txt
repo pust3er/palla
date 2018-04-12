@@ -1,7 +1,7 @@
 
-
-Il registro dei trattamenti
----------------------------
+############################
+Registro dei trattamenti
+############################
 
 Il registro dei trattamenti costituisce la pietra angolare su cui
 poggiano molti degli adempimenti richiesti dal Regolamento EU 679/2016
@@ -18,7 +18,7 @@ sulla voce di menu **Reg. Trattamenti:**
    :width: 500px
 
 Caratteristiche e elementi del registro dei trattamenti
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------
 
 I trattamenti possono essere disattivati, questo permette di inserire
 attributi ed elementi del trattamento ed eventualmente, fare un’analisi
@@ -132,7 +132,7 @@ percorso che accompagna l’utente nella compilazione dei campi necessari
 per definire i trattamenti.
 
 Correlazione trattamento Unità
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 La correlazione dei trattamenti alle unità è essenziale se si intende
 effettuare una gestione dei trattamenti in maniera distribuita,

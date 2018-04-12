@@ -19,6 +19,10 @@ Contents:
    
    manuale/analisi_impatto
 
+   manuale/responsabilizzazione_interna
+
+   manuale/responsabilizzazione_esterna
+
    manuale/manuale
    
     

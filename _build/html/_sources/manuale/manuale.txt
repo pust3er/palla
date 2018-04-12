@@ -1,9 +1,10 @@
+####################################
+Distribuzione responsabilità interna
+####################################
 
-1. .. rubric:: Assegnazioni
-      :name: assegnazioni
 
-   1. .. rubric:: Interfaccia
-         :name: interfaccia
+Interfaccia per nomina incaricati
+----------------------------------
 
 La distribuzione della responsabilità passa necessariamente attraverso
 la correlazione di attività di trattamento a soggetti interni ed esterni
@@ -12,13 +13,17 @@ all’ente.
 Per correlare i soggetti esterni e quelli interni in posizione apicale
 (Responsabili esterni ed interni), è necessario utilizzare la scheda
 **Soggetti** presente al secondo passo del percorso guidato del registro
-dei trattamenti [vedi capitolo 3.1].
+dei trattamenti `Caratteristiche e elementi del registro dei trattamenti`_.
 
-|image11|\ Per gestire le assegnazioni di **Trattamenti, Applicativi e
+Per gestire le assegnazioni di **Trattamenti, Applicativi e
 Dispositivi personali** è necessario utilizzare l’interfaccia
 **Assegnazioni** alla quale è possibile accedere utilizzando il menu
 posizionato sul lato sinistro dello schermo e facendo clic sulla voce
 **Assegnazioni.**
+
+.. image:: ../_images/assegnazioni_interfaccia.png
+   :width: 500px
+
 
 Tramite questa interfaccia è possibile visionare i **Trattamenti** gli
 **Applicativi** e i **Dispositivi personali** assegnati ad ogni soggetto
@@ -28,7 +33,7 @@ effettui l’accesso sia il Responsabile di unità organizzativa
 parte della sua unità.
 
 Meccanismo di delega
-~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 Un responsabile di unità organizzativa può delegare un utente affinché
 questo possa assumere i privilegi definiti per i “delegati” (vedi
@@ -37,8 +42,11 @@ sul pulsante **Mostra albero unita** e selezionare le unità (apponendoci
 una spunta) per il quale lo intende delegare, fermo restando che un
 responsabile può delegare solo per le unità delle quali è responsabile.
 
-|image12|\ Assegnazioni agli incaricati
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. image:: ../_images/delega.png
+   :width: 500px
+
+Assegnazioni agli incaricati
+-----------------------------
 
 Tramite DPM è possibile tracciare i **Trattamenti**, gli **Applicativi**
 e i **Dispositivi** a cui sono abilitati i soggetti incaricati del
@@ -67,8 +75,11 @@ Per correlare un **Trattamento, Applicativo o Dispositivo personale
 
 3. fare clic sugli elementi da assegnare
 
-4. |image13|\ scorrere fino in fondo all’elenco e fare clic sul pulsante
+4. scorrere fino in fondo all’elenco e fare clic sul pulsante
    **Assegna**
+
+.. image:: ../_images/assegnazione_incaricato.png
+   :width: 500px
 
 .. [1]
    Logiche per calcolo indici di rischio derivano dal docuimento “Data
@@ -76,46 +87,3 @@ Per correlare un **Trattamento, Applicativo o Dispositivo personale
    Metering system” 2014, studio commissionato dalla Commissione
    Europea, disponibile all’indirizzo:
    https://ec.europa.eu/energy/en/test-phase-data-protection-impact-assessment-dpia-template-smart-grid-and-smart-metering-systems
-
-.. |image0| image:: media/image1.png
-   :width: 6.69306in
-   :height: 3.76458in
-.. |image1| image:: media/image2.png
-   :width: 6.69306in
-   :height: 3.32500in
-.. |image2| image:: media/image3.png
-   :width: 6.69306in
-   :height: 3.14514in
-.. |image3| image:: media/image4.png
-   :width: 6.69306in
-   :height: 3.32500in
-.. |image4| image:: media/image5.png
-   :width: 3.31250in
-   :height: 1.11458in
-.. |image5| image:: media/image6.png
-   :width: 6.69306in
-   :height: 3.32500in
-.. |image6| image:: media/image7.png
-   :width: 6.44306in
-   :height: 3.02778in
-.. |image7| image:: media/image8.png
-   :width: 6.44306in
-   :height: 3.02778in
-.. |image8| image:: media/image9.png
-   :width: 6.44306in
-   :height: 3.02778in
-.. |image9| image:: media/image10.png
-   :width: 4.19375in
-   :height: 2.96875in
-.. |image10| image:: media/image11.png
-   :width: 6.69306in
-   :height: 3.14514in
-.. |image11| image:: media/image12.png
-   :width: 6.69306in
-   :height: 3.32500in
-.. |image12| image:: media/image13.png
-   :width: 6.69306in
-   :height: 3.32500in
-.. |image13| image:: media/image14.png
-   :width: 6.44306in
-   :height: 3.02778in

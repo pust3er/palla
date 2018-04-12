@@ -1,6 +1,6 @@
 
 ############################
-Il registro dei trattamenti
+Registro dei trattamenti
 ############################
 
 Il registro dei trattamenti costituisce la pietra angolare su cui
