@@ -23,7 +23,6 @@ Contents:
 
    manuale/responsabilizzazione_esterna
 
-   manuale/manuale
    
     
     
