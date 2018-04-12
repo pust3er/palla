@@ -11,9 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-    ./manuale.rst
+   manuale/caratteristiche_applicativo
+
+   manuale/manuale
     
-    ./caratteristiche_applicativo.rst
     
 Indices and tables
 ==================
