@@ -1,0 +1,488 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Data Protection Manager &mdash; dpm-docs 1 documentazione</title>
+    
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="top" title="dpm-docs 1 documentazione" href="#" />
+   
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head>
+  <body role="document">  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="data-protection-manager">
+<h1>Data Protection Manager<a class="headerlink" href="#data-protection-manager" title="Link a questa intestazione">¶</a></h1>
+<p>Indice</p>
+<p><a class="reference external" href="#data-protection-manager">Data Protection Manager 1</a></p>
+<p><a class="reference external" href="#caratteristiche-dellapplicativo">1 Caratteristiche dell’applicativo
+2</a></p>
+<p><a class="reference external" href="#requisiti-minimi-del-browser">1.1 Requisiti minimi del browser 2</a></p>
+<p><a class="reference external" href="#privilegi-e-ruoli-degli-utenti">2 Privilegi utenti e ruoli 3</a></p>
+<p><a class="reference external" href="#privilegi-utenti-e-ruoli-predefiniti">2.1 Privilegi utenti e ruoli predefiniti
+3</a></p>
+<p><a class="reference external" href="#gestione-dei-privilegi-degli-utenti">2.2 Gestione dei privilegi degli utenti
+3</a></p>
+<p><a class="reference external" href="#gestione-delle-unità-organizzative-e-dei-loro-responsabili">2.3 Gestione delle unità organizzative e dei loro responsabili
+4</a></p>
+<p><a class="reference external" href="#il-registro-dei-trattamenti">3 Il registro dei trattamenti 5</a></p>
+<p><a class="reference external" href="#caratteristiche-e-elementi-del-registro-dei-trattamenti">3.1 Caratteristiche e elementi del registro dei trattamenti
+5</a></p>
+<p><a class="reference external" href="#correlazione-trattamento-unità">3.2 Correlazione trattamento Unità
+7</a></p>
+<p><a class="reference external" href="#analisi-dimpatto">4 Analisi d’impatto 8</a></p>
+<p><a class="reference external" href="#assegnazioni">5 Assegnazioni 14</a></p>
+<p><a class="reference external" href="#interfaccia">5.1 Interfaccia 14</a></p>
+<p><a class="reference external" href="#meccanismo-di-delega">5.2 Meccanismo di delega 14</a></p>
+<p><a class="reference external" href="#assegnazioni-agli-incaricati">5.3 Assegnazioni agli incaricati 15</a></p>
+<ol class="arabic">
+<li><p class="first rubric" id="caratteristiche-dellapplicativo">Caratteristiche dell’applicativo</p>
+<ol class="arabic">
+<li><p class="first rubric" id="requisiti-minimi-del-browser">Requisiti minimi del browser</p>
+</li>
+</ol>
+</li>
+</ol>
+<a class="reference internal image-reference" href="_images/login.png"><img alt="_images/login.png" src="_images/login.png" style="width: 400px;" /></a>
+<p>Data Protection Manager è un applicativo web l’accesso all’applicativo
+va effettuato tramite browser.</p>
+<p>DPM è compatibile con i seguenti browser:</p>
+<ul>
+<li><p class="first">Firefox Ultima Versione Stabile</p>
+</li>
+<li><p class="first">Chrome Ultima Versione Stabile</p>
+</li>
+<li><p class="first">Internet Explorer 10+</p>
+</li>
+<li><p class="first">Safari ultime 2 versioni stabili</p>
+</li>
+<li><p class="first">Edge ultime 2 versioni stabili</p>
+<ol class="arabic">
+<li><p class="first rubric" id="privilegi-e-ruoli-degli-utenti">Privilegi e ruoli degli utenti</p>
+<ol class="arabic">
+<li><p class="first rubric" id="privilegi-utenti-e-ruoli-predefiniti">Privilegi utenti e ruoli predefiniti</p>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ul>
+<p>Per impostazione predefinita DPM viene fornito con cinque tipologie di
+utenti a cui corrispondono privilegi applicativi diversi. I privilegi
+corrispondono alla possibilità o mento di usufruire di funzionalità
+dell’applicativo presenti nel menu posizionato sulla sinistra
+dell’interfaccia grafica:</p>
+<ul>
+<li><p class="first"><strong>Amministratore</strong>: utente con privilegi massimi;</p>
+</li>
+<li><p class="first"><strong>DPO:</strong> Dashboard, Registro dei trattamenti, Analisi d’impatto,
+Asset e Soggetti.</p>
+</li>
+<li><p class="first"><strong>Responsabile unità</strong>: Registro dei trattamenti, analisi d’impatto,
+assegnazioni, documenti.</p>
+</li>
+<li><p class="first"><strong>Delegato</strong>: Dashboard dell’incaricato, assegnazioni.</p>
+</li>
+<li><p class="first"><strong>Incaricato:</strong> Dashboard dell’incaricato.</p>
+<ol class="arabic">
+<li><p class="first rubric" id="gestione-dei-privilegi-degli-utenti">Gestione dei privilegi degli utenti</p>
+</li>
+</ol>
+</li>
+</ul>
+<p><a class="reference internal" href="media/image2.png"><img alt="image1" src="media/image2.png" style="width: 6.69306in; height: 3.32500in;" /></a>Gli utenti con ruoli di amministrazione possono modificare i
+privilegi correlati agli altri ruoli ed inserire nuovi ruoli
+configurandone permessi privilegi in maniera granulare, tramite
+l’interfaccia visualizzabile facendo clic sul menu: <strong>Soggetti →
+Ruoli</strong>.</p>
+<div class="section" id="gestione-delle-unita-organizzative-e-dei-loro-responsabili">
+<h2>Gestione delle unità organizzative e dei loro responsabili<a class="headerlink" href="#gestione-delle-unita-organizzative-e-dei-loro-responsabili" title="Link a questa intestazione">¶</a></h2>
+<p>Le unità vengono gestite dall’interfaccia a cui è possibile accedere
+dalla voce di menu: <strong>Soggetti → Unità</strong>. Da qui è possibile inserire
+unità e sotto-unità e correlare i Responsabili interni alle rispettive
+unità e sotto-unità.</p>
+<p><a class="reference internal" href="media/image3.png"><img alt="image2" src="media/image3.png" style="width: 6.69306in; height: 3.14514in;" /></a></p>
+</div>
+</div>
+<div class="section" id="il-registro-dei-trattamenti">
+<h1>Il registro dei trattamenti<a class="headerlink" href="#il-registro-dei-trattamenti" title="Link a questa intestazione">¶</a></h1>
+<p>Il registro dei trattamenti costituisce la pietra angolare su cui
+poggiano molti degli adempimenti richiesti dal Regolamento EU 679/2016
+(GDPR) quali: analisi d’impatto sulla protezione dei dati, la notifica
+di violazioni sui dati personali, la distribuzione delle responsabilità.</p>
+<p>Il registro dei trattamenti è composto dall’insieme dei trattamenti per
+il quale l’ente è Titolare o è Responsabile.</p>
+<p>Per accedere al registro dei trattamenti in DPM è sufficiente fare clic
+sulla voce di menu <strong>Reg. Trattamenti:</strong></p>
+<p><a class="reference internal" href="media/image4.png"><img alt="image3" src="media/image4.png" style="width: 6.69306in; height: 3.32500in;" /></a></p>
+<div class="section" id="caratteristiche-e-elementi-del-registro-dei-trattamenti">
+<h2>Caratteristiche e elementi del registro dei trattamenti<a class="headerlink" href="#caratteristiche-e-elementi-del-registro-dei-trattamenti" title="Link a questa intestazione">¶</a></h2>
+<p>I trattamenti possono essere disattivati, questo permette di inserire
+attributi ed elementi del trattamento ed eventualmente, fare un’analisi
+di impatto, in una fase precedente all’implementazione del trattamento
+nella realtà organizzativa dell’ente e quindi al loro inserimento nel
+registro.</p>
+<p><a class="reference internal" href="media/image5.png"><img alt="image4" src="media/image5.png" style="width: 3.31250in; height: 1.11458in;" /></a>Per disattivare un trattamento è sufficiente spostare il
+cursore che si trova nella prima sezione del trattamento:</p>
+<p>Un’attività di trattamento è composta da cinque sezioni nelle quali sono
+racchiuse tutte le informazioni correlate con l’attività di trattamento.</p>
+<p>Le informazioni richieste in ogni trattamento sono quelle definite
+nell’articolo 30 del regolamento 679/2016 con l’aggiunta di alcune
+informazioni funzionali all’implementazione di misure di sicurezza
+organizzative (quali la definizione di un responsabile interno) e alla
+generazione delle informative (quali la presenza di meccanismi di
+profilazione e meccanismi decisionali automatizzati).</p>
+<p>Nel dettaglio, le informazioni correlate ad ogni attività di trattamento
+sono suddivise nelle schede:</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="24%" />
+<col width="15%" />
+<col width="14%" />
+<col width="13%" />
+<col width="35%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td>Dati esenziali</td>
+<td colspan="4"><ul class="first last simple">
+<li>Nome e descrizione</li>
+<li>Finalità</li>
+<li>Basi legali</li>
+<li>Ambito del processo</li>
+<li>Tipo dati</li>
+<li>Categorie di dati</li>
+<li>Origine dei dati</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td>Soggetti</td>
+<td colspan="4"><ul class="first last simple">
+<li>Categorie di interessati</li>
+<li>Titolari</li>
+<li>Responsabili interni</li>
+<li>Responsabili interni</li>
+<li>DPO</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td rowspan="2">Trasferimenti e
+comunicazioni</td>
+<td rowspan="2">Destinatari</td>
+<td colspan="3">Intra UE</td>
+</tr>
+<tr class="row-even"><td>Extra UE</td>
+<td colspan="2">Base legale per export di dati</td>
+</tr>
+<tr class="row-odd"><td>Misure di sicurezza</td>
+<td colspan="4">Misure di sicurezza organizzative</td>
+</tr>
+<tr class="row-even"><td>Altro</td>
+<td colspan="4"><ul class="first last simple">
+<li>Profilazione</li>
+<li>Processi decisionali automatizzati</li>
+<li>Periodo di conservazione</li>
+<li>Applicativi</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Molte delle informazioni che possono essere inserite durante la
+compilazione del registro derivano da quanto inserito nelle voci dei
+sotto-menu a cui è possibile accedere dalle voci del menu, <strong>Asset</strong> e
+<strong>Soggetti</strong>.</p>
+<p>Nel sotto menu <strong>Asset</strong> è possibile definire:</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="23%" />
+<col width="78%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td>Asset</td>
+<td><ul class="first last simple">
+<li>Applicativi</li>
+<li>Categorie di dati</li>
+<li>Categorie di interessati</li>
+<li>Controlli di sicurezza</li>
+<li>Periodo di conservazione</li>
+<li>Dispositivi</li>
+<li>Misure di sicurezza<ul>
+<li>Tecniche</li>
+<li>Organizzative</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Nel sotto menu <strong>Soggetti</strong> è possibile definire :</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="16%" />
+<col width="84%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td>Soggetti</td>
+<td><ul class="first last simple">
+<li>DPO o RDP</li>
+<li>Qualifiche (del personale)</li>
+<li>Ruoli – (vedi 2.1 Privilegi utenti e ruoli predefiniti)</li>
+<li>Terze parti</li>
+<li>Titolari</li>
+<li>Unità</li>
+<li>Utenti</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>L’inserimento delle attività di trattamento si configura come un
+percorso che accompagna l’utente nella compilazione dei campi necessari
+per definire i trattamenti.</p>
+</div>
+<div class="section" id="correlazione-trattamento-unita">
+<h2>Correlazione trattamento Unità<a class="headerlink" href="#correlazione-trattamento-unita" title="Link a questa intestazione">¶</a></h2>
+<p>La correlazione dei trattamenti alle unità è essenziale se si intende
+effettuare una gestione dei trattamenti in maniera distribuita,
+raccogliendo quindi le informazioni concernenti i trattamenti dai
+soggetti posti in posizione apicale nelle diverse unità organizzative.</p>
+<p><a class="reference internal" href="media/image6.png"><img alt="image5" src="media/image6.png" style="width: 6.69306in; height: 3.32500in;" /></a>Un trattamento può essere correlato ad una o più unità. Per
+correlare un trattamento a delle unità occorre selezionare il <strong>Registro
+dei trattamenti</strong> dal Menu principale, selezionare un trattamento,
+espandere l’ultima voce della sezione <strong>Dettagli del trattamento</strong>
+denominata <strong>Unità associate</strong> posta sul lato destro dell’interfaccia:</p>
+</div>
+</div>
+<div class="section" id="analisi-dimpatto">
+<h1>Analisi d’impatto<a class="headerlink" href="#analisi-dimpatto" title="Link a questa intestazione">¶</a></h1>
+<p>L’analisi d’impatto nel DPM è strutturata nella forma di un percorso
+guidato composto da cinque passaggi:</p>
+<ol class="arabic">
+<li><p class="first"><strong>Creazione progetto:</strong> Il primo passaggio consiste creazione del
+progetto di analisi e nell’indicazione dell’attività di trattamento
+sulla quale si desidera effettuare l’analisi d’impatto.</p>
+<p><a class="reference internal" href="media/image7.png"><img alt="image6" src="media/image7.png" style="width: 6.44306in; height: 3.02778in;" /></a></p>
+</li>
+<li><div class="first line-block">
+<div class="line"><strong>Pre-Assesment:</strong> Il secondo passaggio è costituito da un
+questionario che scaturisce da quello definito nelle linee guida
+del Gruppo di lavoro articolo 29, “WP 248 rev.01”.</div>
+<div class="line">Qui è opportuno apporre la spunta sulle circostanze che ricorrono
+nell’attività di trattamento.</div>
+</div>
+<p><a class="reference internal" href="media/image8.png"><img alt="image7" src="media/image8.png" style="width: 6.44306in; height: 3.02778in;" /></a></p>
+</li>
+<li><p class="first"><strong>Valutazione proporzionalità in relazione alla finalità:</strong> In questo
+passaggio si chiede di confermare che le categorie di dati, quelle di
+interessati e la base legale su cui viene effettuato il trattamento,
+siano proporzionali e necessarie alle finalità per la quale si
+trattano i dati.</p>
+<p><a class="reference internal" href="media/image9.png"><img alt="image8" src="media/image9.png" style="width: 6.44306in; height: 3.02778in;" /></a></p>
+</li>
+<li><p class="first"><strong>Gestione del rischio:</strong></p>
+<p>La gestione del rischio in DPM è strutturata in due passaggi</p>
+<ol class="arabic">
+<li><p class="first">Inserimento e valutazione dei rischi: i rischi possono impattare
+su vulnerabilità strutturali, applicative o organizzative. Il
+primo passaggio è quello di definire il rischio e valorizzare gli
+indici da cui il software deriva i valori dell’impatto e della
+probabilità, il cui prodotto fornisce l’indice numerico che
+rappresenta la gravità del rischio.</p>
+</li>
+<li><p class="first">Mitigazione dei rischi: è possibile definire dei controlli di
+sicurezza che impattano su una delle quattro variabili a partire
+dalle quali si definisce il rischio, valorizzando uno dei quattro
+campi di un controllo di sicurezza si andrà ad abbassare l’indice
+numerico che rappresenta il rischio finale.</p>
+<p><a class="reference internal" href="media/image10.png"><img alt="image9" src="media/image10.png" style="width: 4.19375in; height: 2.96875in;" /></a>Di seguito una rappresentazione grafica della logica
+usata per il calcolo del rischio. <a class="footnote-reference" href="#id2" id="id1">[1]</a></p>
+</li>
+</ol>
+</li>
+<li><p class="first"><strong>Controllo e manutenzione:</strong> nell’ultima scheda è possibile definire
+lo stato di evoluzione del progetto di Analisi di Impatto:</p>
+<ul>
+<li><p class="first">In corso</p>
+</li>
+<li><p class="first">In attesa di revisione</p>
+</li>
+<li><p class="first">Completato</p>
+<p>Nel caso il progetto sia completato è opportuno definire una data
+per la revisione dell’analisi, nel campo “Data del prossimo
+controllo”.</p>
+</li>
+</ul>
+</li>
+</ol>
+<p><a class="reference internal" href="media/image11.png"><img alt="image10" src="media/image11.png" style="width: 6.69306in; height: 3.14514in;" /></a></p>
+<ol class="arabic">
+<li><p class="first rubric" id="assegnazioni">Assegnazioni</p>
+<ol class="arabic">
+<li><p class="first rubric" id="interfaccia">Interfaccia</p>
+</li>
+</ol>
+</li>
+</ol>
+<p>La distribuzione della responsabilità passa necessariamente attraverso
+la correlazione di attività di trattamento a soggetti interni ed esterni
+all’ente.</p>
+<p>Per correlare i soggetti esterni e quelli interni in posizione apicale
+(Responsabili esterni ed interni), è necessario utilizzare la scheda
+<strong>Soggetti</strong> presente al secondo passo del percorso guidato del registro
+dei trattamenti [vedi capitolo 3.1].</p>
+<p><a class="reference internal" href="media/image12.png"><img alt="image11" src="media/image12.png" style="width: 6.69306in; height: 3.32500in;" /></a>Per gestire le assegnazioni di <strong>Trattamenti, Applicativi e
+Dispositivi personali</strong> è necessario utilizzare l’interfaccia
+<strong>Assegnazioni</strong> alla quale è possibile accedere utilizzando il menu
+posizionato sul lato sinistro dello schermo e facendo clic sulla voce
+<strong>Assegnazioni.</strong></p>
+<p>Tramite questa interfaccia è possibile visionare i <strong>Trattamenti</strong> gli
+<strong>Applicativi</strong> e i <strong>Dispositivi personali</strong> assegnati ad ogni soggetto
+censito in anagrafica (<strong>Soggetti→ Utenti</strong>), nel caso il soggetto che
+effettui l’accesso sia il Responsabile di unità organizzativa
+(Responsabile interno), questo avrà visibilità degli utenti facenti
+parte della sua unità.</p>
+<div class="section" id="meccanismo-di-delega">
+<h2>Meccanismo di delega<a class="headerlink" href="#meccanismo-di-delega" title="Link a questa intestazione">¶</a></h2>
+<p>Un responsabile di unità organizzativa può delegare un utente affinché
+questo possa assumere i privilegi definiti per i “delegati” (vedi
+capitolo 2.1), per delegare un utente il responsabile dovrà fare clic
+sul pulsante <strong>Mostra albero unita</strong> e selezionare le unità (apponendoci
+una spunta) per il quale lo intende delegare, fermo restando che un
+responsabile può delegare solo per le unità delle quali è responsabile.</p>
+</div>
+<div class="section" id="image12assegnazioni-agli-incaricati">
+<h2><a class="reference internal" href="media/image13.png"><img alt="image12" src="media/image13.png" style="width: 6.69306in; height: 3.32500in;" /></a>Assegnazioni agli incaricati<a class="headerlink" href="#image12assegnazioni-agli-incaricati" title="Link a questa intestazione">¶</a></h2>
+<p>Tramite DPM è possibile tracciare i <strong>Trattamenti</strong>, gli <strong>Applicativi</strong>
+e i <strong>Dispositivi</strong> a cui sono abilitati i soggetti incaricati del
+trattamento, o come definiti dal regolamenti le persone autorizzate al
+trattamento dei dati. Per questo si utilizza l’interfaccia delle
+assegnazioni, a cui si accede tramite un clic sulla voce di menu
+Assegnazioni.</p>
+<p>Una volta effettuato l’accesso si ha visibilità delle persone fisiche
+appartenenti all’unità di cui si è responsabili o delegati.</p>
+<p><strong>[ATTENZIONE: Si sconsiglia di procedere all’assegnazione di Asset con
+utenze di Super Amministratore]</strong></p>
+<p>Facendo clic nella colonna sulla sinistra dell’interfaccia, sulla scheda
+che rappresenta un incaricato si visualizzano gli oggetti correlati con
+il soggetto e le lettere di nomina generate fino a quel momento.</p>
+<p>Per correlare un <strong>Trattamento, Applicativo o Dispositivo personale
+(Asset)</strong> ad un soggetto:</p>
+<ol class="arabic simple">
+<li>fare clic sulla scheda che rappresenta la persona a cui si vogliono
+assegnare gli Asset</li>
+<li>scegliere il tipo di Asset</li>
+<li>fare clic sugli elementi da assegnare</li>
+<li><a class="reference internal" href="media/image14.png"><img alt="image13" src="media/image14.png" style="width: 6.44306in; height: 3.02778in;" /></a>scorrere fino in fondo all’elenco e fare clic sul pulsante
+<strong>Assegna</strong></li>
+</ol>
+<table class="docutils footnote" frame="void" id="id2" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id1">[1]</a></td><td>Logiche per calcolo indici di rischio derivano dal docuimento “Data
+Protection Impact Assessment Template for Smart Grid and Smart
+Metering system” 2014, studio commissionato dalla Commissione
+Europea, disponibile all’indirizzo:
+<a class="reference external" href="https://ec.europa.eu/energy/en/test-phase-data-protection-impact-assessment-dpia-template-smart-grid-and-smart-metering-systems">https://ec.europa.eu/energy/en/test-phase-data-protection-impact-assessment-dpia-template-smart-grid-and-smart-metering-systems</a></td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="#">Tabella dei contenuti</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Data Protection Manager</a><ul>
+<li><a class="reference internal" href="#gestione-delle-unita-organizzative-e-dei-loro-responsabili">Gestione delle unità organizzative e dei loro responsabili</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#il-registro-dei-trattamenti">Il registro dei trattamenti</a><ul>
+<li><a class="reference internal" href="#caratteristiche-e-elementi-del-registro-dei-trattamenti">Caratteristiche e elementi del registro dei trattamenti</a></li>
+<li><a class="reference internal" href="#correlazione-trattamento-unita">Correlazione trattamento Unità</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#analisi-dimpatto">Analisi d’impatto</a><ul>
+<li><a class="reference internal" href="#meccanismo-di-delega">Meccanismo di delega</a></li>
+<li><a class="reference internal" href="#image12assegnazioni-agli-incaricati">Assegnazioni agli incaricati</a></li>
+</ul>
+</li>
+</ul>
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="#">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+  <div role="note" aria-label="source link">
+    <h3>Questa pagina</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/index.txt"
+            rel="nofollow">Mostra sorgente</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Ricerca veloce</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Vai" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Inserisci un termine di ricerca un modulo, classe o nome di funzione
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2018, Studio Storti.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.3.6</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.7</a>
+      
+      |
+      <a href="_sources/index.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

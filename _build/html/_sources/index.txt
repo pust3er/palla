@@ -50,7 +50,7 @@ Indice
          :name: requisiti-minimi-del-browser
 
 .. image:: _images/login.png
-   :width: 500px
+   :width: 400px
 
 
 Data Protection Manager è un applicativo web l’accesso all’applicativo
