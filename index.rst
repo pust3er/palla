@@ -11,15 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   manuale/caratteristiche_applicativo
+   manuale/caratteristiche_software
 
    manuale/manuale
     
     
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
