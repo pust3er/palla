@@ -16,6 +16,8 @@ Contents:
    manuale/privilegi_e_ruoli_degli_utenti
    
    manuale/registro_trattamenti
+   
+   manuale/analisi_impatto
 
    manuale/manuale
    
