@@ -13,6 +13,9 @@ Contents:
 
    manuale/caratteristiche_software
 
+   manuale/privilegi_e_ruoli_degli_utenti
+
    manuale/manuale
+   
     
     
