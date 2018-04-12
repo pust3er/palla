@@ -22,6 +22,6 @@ DPM è compatibile con i seguenti browser:
 -  Edge ultime 2 versioni stabili
 
 
-.. image:: _images/login.png
+.. image:: ../_images/login.png
    :width: 500px
 
