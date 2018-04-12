@@ -1,6 +1,6 @@
 
 ################################
-Caratteristiche dell’applicativo
+Caratteristiche del software
 ################################
 
 Requisiti minimi del browser
