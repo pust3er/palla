@@ -13,7 +13,7 @@ all’ente.
 Per correlare i soggetti esterni e quelli interni in posizione apicale
 (Responsabili esterni ed interni), è necessario utilizzare la scheda
 **Soggetti** presente al secondo passo del percorso guidato del registro
-dei trattamenti 'Caratteristiche e elementi del registro dei trattamenti'_
+dei trattamenti `Caratteristiche e elementi del registro dei trattamenti`_.
 
 Per gestire le assegnazioni di **Trattamenti, Applicativi e
 Dispositivi personali** è necessario utilizzare l’interfaccia
@@ -81,5 +81,9 @@ Per correlare un **Trattamento, Applicativo o Dispositivo personale
 .. image:: ../_images/assegnazione_incaricato.png
    :width: 500px
 
-Nomina responsabili interni
-----------------------------------
+.. [1]
+   Logiche per calcolo indici di rischio derivano dal docuimento “Data
+   Protection Impact Assessment Template for Smart Grid and Smart
+   Metering system” 2014, studio commissionato dalla Commissione
+   Europea, disponibile all’indirizzo:
+   https://ec.europa.eu/energy/en/test-phase-data-protection-impact-assessment-dpia-template-smart-grid-and-smart-metering-systems
