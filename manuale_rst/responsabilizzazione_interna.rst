@@ -5,7 +5,11 @@ Distribuzione responsabilità interna
 Nomina responsabili/referenti interni
 --------------------------------------
 
-In una organizzazione complessa, è utile individuare delle figure di riferimento privacy all'interno delle unità organizzative. La loro individuazione permette di rafforzare la messa in atto di misure di sicurezza organizzative quali il rilascio delle credenziali applicative e il censimento delle attività di trattamento in modalità distribuita.
+Ai fini di una efficace implementazione delle misure di sicurezza organizzative, in una organizzazione complessa può essere utile individuare delle figure di riferimento in materia di privacy all'interno delle unità organizzative. La loro individuazione permette di rafforzare la messa in atto di misure di sicurezza organizzative quali procedure formali di rilascio delle credenziali applicative o agevolare il censimento delle attività di trattamento in modalità distribuita.
+
+Un responsabile/referente privacy interno può essere individuato per ciascuna unità organizzativa e/o per ciascun trattamento.
+
+Per correlare unità Unità responsabili/referenti fare riferrimento a quanto descritto nel capitolo Gestione delle unità organizzative e dei loro responsabili_
 
 
 Interfaccia per nomina incaricati
