@@ -81,5 +81,9 @@ Per correlare un **Trattamento, Applicativo o Dispositivo personale
 .. image:: ../_images/assegnazione_incaricato.png
    :width: 500px
 
-Nomina responsabili interni
-----------------------------------
+Nomina responsabili/referenti interni
+--------------------------------------
+
+P
+
+
