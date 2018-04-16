@@ -63,7 +63,7 @@ sono suddivise nelle schede:
 |                       |                                                                            |
 |                       | -  Responsabili interni                                                    |
 |                       |                                                                            |
-|                       | -  Responsabili interni                                                    |
+|                       | -  Responsabili esterni                                                    |
 |                       |                                                                            |
 |                       | -  DPO                                                                     |
 +-----------------------+--------------+-------------------------------------------------------------+

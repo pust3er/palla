@@ -9,7 +9,9 @@ Ai fini di una efficace implementazione delle misure di sicurezza organizzative,
 
 Un responsabile/referente privacy interno può essere individuato per ciascuna unità organizzativa e/o per ciascun trattamento.
 
-Per correlare unità Unità responsabili/referenti fare riferrimento a quanto descritto nel capitolo Gestione delle unità organizzative e dei loro responsabili_
+- Per correlare Unità a responsabili/referenti fare riferrimento a quanto descritto nel capitolo Gestione delle unità organizzative e dei loro responsabili_
+- Per correlare trattamenti a responsabili/referenti vedi Registro dei trattamenti_
+
 
 
 Interfaccia per nomina incaricati
