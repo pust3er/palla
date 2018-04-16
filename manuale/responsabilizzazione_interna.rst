@@ -14,10 +14,10 @@ Un responsabile/referente privacy interno può essere individuato per ciascuna u
 
 Per generare una lettera di incarico per il responsabile o referente privacy e opportuno:
 
-1. Selezionare la voce del menu Accordi
-2. Selezionare Responsabile Interno
+1. Selezionare la voce del menu *Accordi*
+2. Selezionare *Responsabile Interno*
 3. Selezionare il soggetto per il quale si desidera generare un accordo
-4. Selezionare genera pdf o odt
+4. Selezionare *Genera pdf* o odt
 
 .. image:: ../_images/resp_int.png
    :width: 500px
