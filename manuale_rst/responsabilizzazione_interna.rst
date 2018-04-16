@@ -12,6 +12,10 @@ Un responsabile/referente privacy interno può essere individuato per ciascuna u
 - Per correlare Unità a responsabili/referenti fare riferrimento a quanto descritto nel capitolo Gestione delle unità organizzative e dei loro responsabili_
 - Per correlare trattamenti a responsabili/referenti vedi Registro dei trattamenti_
 
+Per generare una lettera di incarico per il responsabile o referente privacy e opportuno:
+
+-Selezionare la voce del menu 
+
 
 
 Interfaccia per nomina incaricati
