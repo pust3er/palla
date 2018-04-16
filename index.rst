@@ -11,17 +11,17 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   manuale_rst/caratteristiche_software
+   manuale/caratteristiche_software
 
-   manuale_rst/privilegi_e_ruoli_degli_utenti
+   manuale/privilegi_e_ruoli_degli_utenti
    
-   manuale_rst/registro_trattamenti
+   manuale/registro_trattamenti
    
-   manuale_rst/analisi_impatto
+   manuale/analisi_impatto
 
-   manuale_rst/responsabilizzazione_interna
+   manuale/responsabilizzazione_interna
 
-   manuale_rst/responsabilizzazione_esterna
+   manuale/responsabilizzazione_esterna
 
    
     
