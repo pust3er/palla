@@ -2,6 +2,11 @@
 Distribuzione responsabilità interna
 ####################################
 
+Nomina responsabili/referenti interni
+--------------------------------------
+
+In una organizzazione complessa, è utile individuare delle figure di riferimento privacy all'interno delle unità organizzative. La loro individuazione permette di rafforzare la messa in atto di misure di sicurezza organizzative quali il rilascio delle credenziali applicative e il censimento delle attività di trattamento in modalità distribuita.
+
 
 Interfaccia per nomina incaricati
 ----------------------------------
@@ -81,9 +86,6 @@ Per correlare un **Trattamento, Applicativo o Dispositivo personale
 .. image:: ../_images/assegnazione_incaricato.png
    :width: 500px
 
-Nomina responsabili/referenti interni
---------------------------------------
 
-P
 
 

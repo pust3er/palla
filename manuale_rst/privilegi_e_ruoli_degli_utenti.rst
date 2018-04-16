@@ -1,5 +1,5 @@
 ##############################
-Privilegi e ruoli degli utenti
+Privilegi, ruoli e unità
 ##############################
 
 Privilegi utenti e ruoli predefiniti
@@ -46,4 +46,15 @@ unità e sotto-unità e correlare i Responsabili interni alle rispettive
 unità e sotto-unità.
 
 .. image:: ../_images/unita.png
+   :width: 500px
+
+Per correlare unità Unità responsabili/referenti, dal menu principale: 
+
+1. Selezionare la voce Unità dal menu Soggetti -> Unità
+
+2. Selezionare l'unità su cui si vuole andare ad agire
+
+3. Selezionare il responsabile dal menu facendo clic sul campo di imput e selezionando un utente dal menu a tendina.
+
+.. image:: ../_images/unita_resp.png
    :width: 500px
