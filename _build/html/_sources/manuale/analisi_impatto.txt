@@ -56,7 +56,7 @@ La gestione del rischio in DPM è strutturata in due passaggi
    numerico che rappresenta il rischio finale.
 
    Di seguito una rappresentazione grafica della logica
-   usata per il calcolo del rischio.
+   usata per il calcolo del rischio.[1]
 
 .. image:: ../_images/analisi_impatto_45.png
    :width: 500px
@@ -80,3 +80,11 @@ controllo”.
 
 .. image:: ../_images/analisi_impatto_5.png
    :width: 500px
+
+.. [1]
+   Logiche per calcolo indici di rischio derivano dal docuimento “Data
+   Protection Impact Assessment Template for Smart Grid and Smart
+   Metering system” 2014, studio commissionato dalla Commissione
+   Europea, disponibile all’indirizzo:
+   https://ec.europa.eu/energy/en/test-phase-data-protection-impact-assessment-dpia-template-smart-grid-and-smart-metering-systems
+

@@ -36,6 +36,7 @@ Ruoli**.
 .. image:: ../_images/lista_ruoli.png
    :width: 500px
 
+.. _unita_organizzative_responsabili:
 
 Gestione delle unità organizzative e dei loro responsabili
 ----------------------------------------------------------

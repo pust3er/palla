@@ -17,6 +17,8 @@ sulla voce di menu **Reg. Trattamenti:**
 .. image:: ../_images/registro_trattamenti.png
    :width: 500px
 
+.. _Link_a_registro_trattamenti:
+
 Caratteristiche e elementi del registro dei trattamenti
 --------------------------------------------------------
 
