@@ -6,7 +6,7 @@ Distribuzione responsabilità interna
 Nomina responsabili/referenti interni
 --------------------------------------
 
-Ai fini di una efficace implementazione delle misure di sicurezza organizzative, in una organizzazione complessa può essere utile individuare delle figure di riferimento in materia di privacy all'interno delle unità organizzative. La loro individuazione permette di rafforzare la messa in atto di misure di sicurezza organizzative quali procedure formali di rilascio delle credenziali applicative o agevolare il censimento delle attività di trattamento in modalità distribuita.
+In una organizzazione complessa può essere utile individuare delle figure di riferimento in materia di privacy all'interno delle unità organizzative. La loro individuazione permette di rafforzare la messa in atto di misure di sicurezza organizzative, quali procedure formali di rilascio delle credenziali applicative o agevolare il censimento delle attività di trattamento in modalità distribuita.
 
 Un responsabile/referente privacy interno può essere individuato per ciascuna unità organizzativa e/o per ciascun trattamento.
 
@@ -79,8 +79,6 @@ Assegnazioni.
 Una volta effettuato l’accesso si ha visibilità delle persone fisiche
 appartenenti all’unità di cui si è responsabili o delegati.
 
-**[ATTENZIONE: Si sconsiglia di procedere all’assegnazione di Asset con
-utenze di Super Amministratore]**
 
 Facendo clic nella colonna sulla sinistra dell’interfaccia, sulla scheda
 che rappresenta un incaricato si visualizzano gli oggetti correlati con
@@ -102,7 +100,21 @@ Per correlare un **Trattamento, Applicativo o Dispositivo personale
 .. image:: ../_images/assegnazione_incaricato.png
    :width: 500px
 
+Assegnazioni agli incaricati con utenteze di Amministrative
+------------------------------------------------------------
 
+Le assegnazioni di trattamenti e applicativi devono sempre correlate ad una unità organizzativa. Se le assegnazioni vengono fatte con un'utenza che non appartiene ad una unità queste saranno per impostazione predefinita non correlate con delle unità, e quindi non compariranno nelle lettere d'incarico generate.
 
+.. image:: ../_images/Assegnazioni_admin_1.png
+   :width: 500px
 
+La modifica della correlazione con l'unità puo essere fatta prima della nomina anche quando si opera con utenze amministrative. Per fare ciò è opportuno simulare l'appartenenza ad una o più unità organizzative:
+
+1. fare clic sul pulsante *seleziona unità* in sullo schermo in alto a destra [1]
+2. mettere una spunta sull'unità per la quale si intende operare
+
+Per la modifica della correlazione con l'unità puo essere fatta anche successivamente alla assegnazione. Per fare ciò è opportuno fare clic pulsante modifica [2] di ogni trattamento o applicativo e mettere la spunta sulle unità per le quali si intende assegnare l'oggetto.
+
+.. image:: ../_images/Assegnazioni_admin_1_1.png
+   :width: 500px
 
